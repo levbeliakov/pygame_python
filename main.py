@@ -1,7 +1,6 @@
 import pygame
 import os
 import sys
-#hahaha
 
 line =[0] * 10
 tetris = []
